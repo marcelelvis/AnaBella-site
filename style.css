@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./imagens/fundo.png);    
+    font: 16px Arial, Helvetica, sans-serif;
+    padding: 10px;    
+
+}
+
+.principal{    
+    width: 900px;
+   
+
+}
+
+.nav{
+    padding: 18px;    
+    color: #2a2a49;
+    font-weight: bolder;
+    background-color: #c5c5b2;
+    text-align: center;
+   
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.conteudo{
+    background-color: #fdfbed;
+    padding: 10px;
+
+}
+
+.fot{
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+    color: #4b566a;
+    padding: 5px;
+    
+}
+
+a:visited{
+    color: #4b566a;
+}
+
+.camp{
+    background-color: #c5c5b2;
+    border: #c3c3ae solid 10px;
+    
+}
+
+p{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
